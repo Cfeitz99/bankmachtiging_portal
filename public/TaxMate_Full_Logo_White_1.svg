@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="547.05334"
+   height="117.56"
+   viewBox="0 0 547.05334 117.56"
+   sodipodi:docname="TaxMate_Full_Logo_White_1.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,117.56)">
+    <g
+       id="g10"
+       transform="scale(0.1)">
+      <path
+         d="m 747.426,129.711 c 0,0 -230.633,3.094 -230.633,199.59 v 195.504 c 0,25.086 23.066,43.879 47.594,38.617 66.808,-14.336 180.32,-58.156 180.32,-190.414 0,-187.406 2.719,-243.297 2.719,-243.297 z"
+         style="fill:none;stroke:#7ed2b4;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path12" />
+      <path
+         d="M 300.508,856.727 H 25 c 0,-75.95 29.043,-148.864 80.691,-202.567 40.551,-42.168 92.497,-69.847 148.297,-79.793 24.227,-4.32 46.508,14.285 46.512,38.891 z"
+         style="fill:none;stroke:#7ed2b4;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path14" />
+      <path
+         d="m 516.793,856.727 h 275.508 c 0,-75.95 -29.043,-148.864 -80.692,-202.567 -40.55,-42.168 -92.496,-69.847 -148.296,-79.793 -24.227,-4.32 -46.512,14.285 -46.512,38.891 z"
+         style="fill:none;stroke:#7ed2b4;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path16" />
+      <path
+         d="m 69.875,129.957 c 0,0 230.633,3.094 230.633,199.594 v 195.504 c 0,25.086 -23.067,43.879 -47.594,38.613 C 186.105,549.332 72.5938,505.516 72.5938,373.258 72.5938,185.852 69.875,129.957 69.875,129.957 Z"
+         style="fill:none;stroke:#7ed2b4;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path18" />
+      <path
+         d="m 408.648,255.578 v 0 c 59.727,0 108.145,48.418 108.145,108.145 l 0.066,493.004 H 300.578 l -0.07,-493.004 c 0,-59.727 48.418,-108.145 108.14,-108.145 z"
+         style="fill:none;stroke:#7ed2b4;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path20" />
+      <g
+         id="g22"
+         transform="scale(10)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,98.9629,24.6234)"
+           style="font-variant:normal;font-weight:600;font-size:72px;font-family:Axiforma;-inkscape-font-specification:Axiforma-SemiBold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text26"><tspan
+             x="0 35.9282 83.736305 122.03902 188.0634 235.87099 267.19031"
+             y="0"
+             sodipodi:role="line"
+             id="tspan24">TaxMate</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
