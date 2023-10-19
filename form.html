@@ -3,16 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bankmachtiging Portal</title>
+    <title>Incassomachtiging Portal</title>
+    <style>
+        body {
+            font-family: 'Axiforma', sans-serif;
+            background-color: #1f3c4e; /* Updated general background color */
+            color: #1f3c4e; /* Text color */
+            text-align: center;
+            padding: 20px;
+            margin: 0;
+        }
+
+        h1 {
+            color: #FFFFFF;
+            font-size: 36px;
+        }
+
+        form {
+            background-color: #FFFFFF; /* Form background color remains white */
+            border-radius: 10px;
+            padding: 20px;
+            width: 300px;
+            margin: 0 auto;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+            color: #1f3c4e;
+            font-weight: bold;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #1f3c4e;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        input[type="submit"] {
+            background-color: #ff6663;
+            color: #FFFFFF;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #1f3c4e;
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome to the Bankmachtiging Portal</h1>
+    <h1>Incassomachtiging Portal</h1>
     <form action="/submit" method="POST">
         <label for="firstName">First Name:</label>
-        <input type="text" id="firstName" name="firstName" required><br><br>
+        <input type="text" id="firstName" name="firstName" required>
         
         <label for="lastName">Last Name:</label>
-        <input type="text" id="lastName" name="lastName" required><br><br>
+        <input type="text" id="lastName" name="lastName" required>
 
         <!-- This is the submit button -->
         <input type="submit" value="Submit">
